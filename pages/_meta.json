@@ -1,15 +1,14 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "setup": "Setup",
+  "part1": "Part 1: HTML", 
+  "part3": "Part 2: JavaScript",
+  "part2": "Part 3: CSS",
+  "deploy": "Deployment", 
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://www.instagram.com/ethanpinedaa/",
     "newWindow": true
   }
 }
