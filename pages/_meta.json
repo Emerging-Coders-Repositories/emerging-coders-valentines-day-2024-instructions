@@ -2,8 +2,7 @@
   "index": "Introduction",
   "setup": "Setup",
   "part1": "Part 1: HTML", 
-  "part3": "Part 2: JavaScript",
-  "part2": "Part 3: CSS",
+  "part2": "Part 2: JavaScript",
   "deploy": "Deployment", 
   "contact": {
     "title": "Contact ↗",
